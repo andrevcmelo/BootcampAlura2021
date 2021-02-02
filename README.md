@@ -1,7 +1,7 @@
 # BootcampAlura2021
 Repositório destinado ao Bootcamp Alura 2021 em Ciência de Dados
 
-#Links de post no Medium com resultados dos projetos:
+# Links de post no Medium com resultados dos projetos:
 1. Projeto 02: https://andrevcmelo.medium.com/dados-e-sa%C3%BAde-uma-an%C3%A1lise-em-python-sobre-a-covid-19-no-brasil-904872078560
 
 # Link das bases de dados:
